@@ -9,6 +9,7 @@
 ##Run
 ```
 sudo npm install grunt-cli -g
+sudo npm install
 cd `this rootpath`
 grunt
 ```
